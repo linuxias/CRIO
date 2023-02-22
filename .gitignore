@@ -1,3 +1,6 @@
+# Configure file
+crio_cfg.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
