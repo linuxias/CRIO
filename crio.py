@@ -74,7 +74,6 @@ def check_directory_args(dirpath):
     repo_dir = dirpath
   return repo_dir
 
-
 def move_directory(dirpath):
   os.chdir(dirpath)
   
